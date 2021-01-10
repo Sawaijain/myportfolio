@@ -1,7 +1,6 @@
 {
   "name": "src",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "scripts": {
     "start": "node src/app.js"
@@ -11,5 +10,14 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sawaijain/myportfolio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Sawaijain/myportfolio/issues"
+  },
+  "homepage": "https://github.com/Sawaijain/myportfolio#readme",
+  "description": ""
 }
